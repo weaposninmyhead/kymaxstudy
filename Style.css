@@ -1,0 +1,9 @@
+/* style.css */
+font-family: 'Ubuntu', sans-serif;
+
+.navbar {
+    background-color: gray;
+}
+body{
+    background-color: #f8f8f8;
+}

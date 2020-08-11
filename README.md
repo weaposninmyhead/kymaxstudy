@@ -1,1 +1,2 @@
-# kymaxstudy
+# kymax
+esto es mi web
